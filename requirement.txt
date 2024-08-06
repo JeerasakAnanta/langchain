@@ -1,0 +1,6 @@
+langchain
+langchain_community
+langchain_chroma
+langchain-openai
+beautifulsoup4
+langchainhub
